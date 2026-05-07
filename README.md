@@ -1,2 +1,2 @@
 # Project_TPS
-Progetto per TPS strabellissimo con Binda
+Progetto per TPS strabellissimo con Nicolò e Binda
