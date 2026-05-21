@@ -1,2 +1,4 @@
-# Project_TPS
-Progetto per TPS strabellissimo con Nicolò e Binda
+# Project\_TPS
+
+Sono sbindex e sono nel full gas
+
