@@ -1,2 +1,3 @@
 # Project_TPS
-Progetto per TPS strabellissimo con Nicolò e Binda;
+
+Ciao sono Cristian, sto editando su Visual Studio Code
